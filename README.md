@@ -1,1 +1,1 @@
-Made an Amazon Homepage using HTML ad CSS
+Made Amazon Homepage using HTML ad CSS

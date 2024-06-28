@@ -1,1 +1,1 @@
-# Amazon-Homepage-clone
+Made an Amazon Homepage using HTML ad CSS
